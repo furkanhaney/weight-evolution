@@ -1,4 +1,4 @@
-# Gradients Study
+# Neural Network Weights Study
 
 ![](/readme/fig_weight.png)
 ![](/readme/fig_dist.png)
